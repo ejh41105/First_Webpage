@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 37c5648..d868172 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -73,8 +73,6 @@[m
+         <section>[m
+             <h2> Contact: </h2>[m
+             <ul>[m
+[31m-               <li> Phone: 469-805-0926</li>[m
+[31m-               <li> Personal Email: ethanhoward411@gmail.com</li>[m
+                <li> School Email: ethanhoward2@my.unt.edu</li> [m
+             </ul>[m
+         </section>[m
