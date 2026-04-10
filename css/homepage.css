@@ -10,7 +10,7 @@ body {
 
 /* Header */
 header {
-    background-color: navy;
+    background-color: rgba(14, 51, 234, 0.84);
     color: white;
     padding: 20px;
     display: flex;
@@ -59,7 +59,7 @@ section {
 }
 
 .card {
-    background: #062367;
+    background: rgba(14, 51, 234, 0.84);
     padding: 20px;
     flex: 1;
     border-radius: 6px;
@@ -69,8 +69,12 @@ section {
     transition: transfer 0.2s;
 }
 
+.card a {
+    color: white;
+}
+
 .card:hover {
-    transform: scal3(1.05);
+    transform: scale(1.05);
 }
 
 ul {
@@ -105,7 +109,7 @@ img {
 
 /* Footer */
 footer {
-    background-color: navy;
+    background-color: rgba(14, 51, 234, 0.84);
     color: white;
     text-align: center;
     padding: 10px;
